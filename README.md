@@ -1,6 +1,6 @@
 # B2B-dataset-samples
 
-<h2>A small collection of sample B2B datasets, each one with over 1,000 records.</h2>
+<h2>A collection of sample B2B datasets, each one with over 1,000 records.</h2>
 
 ![B2B dataset header](https://github.com/luminati-io/B2B-business-dataset-samples/blob/main/b2b-datasets.PNG)
 
