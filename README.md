@@ -2,7 +2,7 @@
 
 <h2>A small collection of sample B2B datasets, each one with over 1,000 records.</h2>
 
-![B2B dataset header](https://github.com/luminati-io/B2B-dataset-samples/blob/main/b2b-datasets.PNG)
+![B2B dataset header](https://github.com/luminati-io/B2B-business-dataset-samples/blob/main/b2b-datasets.PNG)
 
 Business dataset samples with thousands of records in total. All the dataset were extracted using the <b>Bright Data API</b>.
 
