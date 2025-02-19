@@ -48,6 +48,19 @@ Business dataset samples with thousands of records in total. All the dataset wer
 
 And a lot more.
 
+## Most popular business datasets
+
+- [LinkedIn Datasets](https://brightdata.com/products/datasets/linkedin)
+- [Glassdoor Datasets](https://brightdata.com/products/datasets/glassdoor)
+- [Indeed Datasets](https://brightdata.com/products/datasets/indeed)
+- [Google Maps Datasets](https://brightdata.com/products/datasets/google-maps)
+- [Yelp Datasets](https://brightdata.com/products/datasets/yelp)
+- [Zoominfo Datasets](https://brightdata.com/products/datasets/zoominfo)
+- [G2 Datasets](https://brightdata.com/products/datasets/g2)
+- [Trustpilot Datasets](https://brightdata.com/products/datasets/trustpilot)
+
+And many more. 
+
 These are sample datasets and subsets which are derived from dozens of "B2B Datasets (public data)"
 which include billions of records.
 
